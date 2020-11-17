@@ -23,9 +23,9 @@ right now this package does not support IOS, so any one that wants to help and c
 ## Installation
 
 ```bash
-npm install react-native-ble-peripheral --save
+npm install https://github.com/IronTony/react-native-ble-peripheral-enhanced --save
 or 
-yarn add react-native-ble-peripheral
+yarn add https://github.com/IronTony/react-native-ble-peripheral-enhanced
 ```
 npm page - https://www.npmjs.com/package/react-native-ble-peripheral
 ## Add permissions
